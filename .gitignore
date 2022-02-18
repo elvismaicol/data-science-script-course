@@ -1,0 +1,7 @@
+# checkpoints folder
+*/.ipynb_checkpoints/*
+
+
+# RStudio files
+.Rproj.user/
+*.Rproj
